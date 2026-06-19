@@ -72,5 +72,5 @@ SGV/
 
 ## Stack Tecnologico vinculado al Proyecto 
 1. Frontend: HTML y CSS
-2. Backend: Python - Frameworks y Librerias: Fastapi, Jinja, etc.
+2. Backend: Python - Frameworks y Librerias: Fastapi, Jinja2, uvicorn, uvicorn, psycopg2
 3. Bases de Datos: PostgreSQL 
