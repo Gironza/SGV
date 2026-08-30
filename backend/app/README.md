@@ -4,7 +4,7 @@
 1. Santiago Peña Gironza: Coordinador del Proyecto 
 2. Sandy Suaza Ramos: Equipo de Desarrollo 
 3. Laura Gomez Melo: Documentacion 
-4. Suset Redondo Aguiar: Investigación
+
 
 ## Descripcion del Proyecto
 Sistema de Gestion de Votaciones SGV es una aplicacion web destinada a gestionar los procesos electorales vinculados al gobierno escolar a partir de los grados 6to° en adelante; En las instituciones nacionales de Colombia, Partiendo en resolver las principales necesidades que se presentan en las votaciones convencionales: Seguridad, Transparencia y Sistematizacion.  
